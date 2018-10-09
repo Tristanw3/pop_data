@@ -1,0 +1,40 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgb(52,52,52);
+    flex-wrap: wrap;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(127,127,127);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+#firstBox:hover {
+    border: 2px solid #FF6379;
+    
+    color: #FF6379;
+}
+
+#secondBox:hover {
+    border: 2px solid #6A4FE8;
+    
+    color: #6A4FE8;
+}
+
+h1 {
+    font-size: 20em;
+}
+
+
