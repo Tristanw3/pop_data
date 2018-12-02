@@ -1,0 +1,22 @@
+{
+  "name": "pop_data",
+  "version": "1.0.0",
+  "description": "Population_Map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tristanw3/pop_map.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tristanw3/pop_map/issues"
+  },
+  "homepage": "https://github.com/Tristanw3/pop_map#readme",
+  "dependencies": {
+    "leaflet": "^1.3.4"
+  }
+}

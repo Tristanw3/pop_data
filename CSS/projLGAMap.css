@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background: rgb(16, 26, 76);;
+    background: rgb(243, 243, 243);
 }
 
 nav {
@@ -15,7 +15,6 @@ nav {
 }
 
 i {
-    color: white;
     margin-left: 50px;
 }
 
